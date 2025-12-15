@@ -47,7 +47,7 @@ go run main.go
 
 Завтра: переменные, типы и короткое объявление `:=`.
 
-➡️ **Выполни задание**: → перейди в [задание](https://github.com/ashhoxx/learning-go-for-beginner/blob/main/homework/01-hello-world/README.md)
+➡️ **Выполни задание**: → перейди в [задание](https://github.com/ashhoxx/learning-go-for-beginner/blob/main/homework/01-hello-world.md)
 
 ## Что прислать
 Сделай скриншот терминала с командой и результатом.  
